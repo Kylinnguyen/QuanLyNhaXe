@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1.DAO
 {
-    class SalaryDAO
+    public class SalaryDAO
     {
         private static SalaryDAO instance;
 

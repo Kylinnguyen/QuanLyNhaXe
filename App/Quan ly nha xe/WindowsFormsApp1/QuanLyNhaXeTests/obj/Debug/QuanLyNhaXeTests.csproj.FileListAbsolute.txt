@@ -1,0 +1,17 @@
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\obj\Debug\QuanLyNhaXeTests.csprojAssemblyReference.cache
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\obj\Debug\QuanLyNhaXeTests.csproj.CoreCompileInputs.cache
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\QuanLyNhaXeTests.dll
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\QuanLyNhaXeTests.pdb
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\WindowsFormsApp1.exe
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\WindowsFormsApp1.pdb
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\WindowsFormsApp1.exe.config
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\obj\Debug\QuanLyNhaXeTests.csproj.CopyComplete
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\obj\Debug\QuanLyNhaXeTests.dll
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\QuanLyNhaXeTests\obj\Debug\QuanLyNhaXeTests.pdb

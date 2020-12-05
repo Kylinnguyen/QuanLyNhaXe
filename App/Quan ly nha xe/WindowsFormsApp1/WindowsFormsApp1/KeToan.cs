@@ -60,7 +60,7 @@ namespace WindowsFormsApp1
             txtTrangThaiTienLuong.DataBindings.Add(new Binding("Text", dtgvTableSalary.DataSource, "TrangThai", true, DataSourceUpdateMode.Never));
         }
         
-        void addSalary(string firstname, string lastname, string phonenumber, string role, string Salary, string IDAccount, string trangthai)
+        public void addSalary(string firstname, string lastname, string phonenumber, string role, string Salary, string IDAccount, string trangthai)
         {
             if (SalaryDAO.Instance.insertSalary(firstname, lastname, phonenumber, role, Salary, IDAccount, trangthai))
             {
@@ -73,7 +73,7 @@ namespace WindowsFormsApp1
             loadTableSalary();
         }
 
-        void editSalary(string firstname, string lastname, string phonenumber, string role, string Salary, string IDAccount, string trangthai)
+        public void editSalary(string firstname, string lastname, string phonenumber, string role, string Salary, string IDAccount, string trangthai)
         {
             if (SalaryDAO.Instance.updateSalary(firstname, lastname, phonenumber, role, Salary, IDAccount,trangthai))
             {
@@ -86,7 +86,7 @@ namespace WindowsFormsApp1
             loadTableSalary();
         }
 
-        void deleteSalary(string id)
+        public void deleteSalary(string id)
         {
             if (SalaryDAO.Instance.deleteSalary(id))
             {

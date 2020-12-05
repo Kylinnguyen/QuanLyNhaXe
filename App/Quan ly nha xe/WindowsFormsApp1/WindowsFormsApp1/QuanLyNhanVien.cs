@@ -45,7 +45,7 @@ namespace WindowsFormsApp1
             accountList.DataSource = AccountDAO.Instance.getListAccount();
         }
 
-        void addAccount(string firstname, string lastname, string address, string phonenumber, string username, string role)
+        public void addAccount(string firstname, string lastname, string address, string phonenumber, string username, string role)
         {
             if (AccountDAO.Instance.insertAccount(firstname, lastname, address, phonenumber, username, role))
             {
@@ -58,7 +58,7 @@ namespace WindowsFormsApp1
             loadAccount();
         }
 
-        void editAccount(string firstname, string lastname, string address, string phonenumber, string username, string role)
+        public void editAccount(string firstname, string lastname, string address, string phonenumber, string username, string role)
         {
             if (AccountDAO.Instance.updateAccount(firstname, lastname, address, phonenumber, username, role))
             {
@@ -71,7 +71,7 @@ namespace WindowsFormsApp1
             loadAccount();
         }
 
-        void deleteAccount(string username)
+        public void deleteAccount(string username)
         {
             if (AccountDAO.Instance.deleteAccount(username))
             {
