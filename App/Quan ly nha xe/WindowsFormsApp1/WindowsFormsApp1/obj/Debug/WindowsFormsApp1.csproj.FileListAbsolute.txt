@@ -1,0 +1,11 @@
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\baitaptdt\Nam 3\Ki 1\Cong nghe phan mem\Do an cuoi ki\App\Quan ly nha xe\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SignUp.resources
